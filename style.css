@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.clr{
+    color: #6C6C6C;
+    font-weight: 700;
+}
+.bi-check-lg{
+    background: rgba(82, 67, 194, 0.103693);
+}
+ .choose{
+    background: #FEF5FA
+}
+.bluecol{
+    height: 480px;
+}
+.blue{
+    padding-left: 30px;
+    margin-top: -50px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}   
+.badge{
+    top: -1.0em;
+    right: 0.9375em; 
+    vertical-align: baseline;
+}
+
